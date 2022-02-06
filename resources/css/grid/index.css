@@ -1,0 +1,8 @@
+.grid-btns > div{
+    margin-left: 10px;
+}
+
+.grid-btns .active .lining{
+    height: 10px;
+    border: 1px solid black;
+}

@@ -1,0 +1,8 @@
+.grid-btns input{
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.grid-btns .active{
+    box-shadow: 4px 4px 10px 2px black;
+}

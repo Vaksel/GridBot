@@ -1,0 +1,15 @@
+.buy-open-order {
+    background-color: limegreen;
+}
+.sell-open-order {
+    background-color: orangered;
+}
+.open_orders-item {
+    display: flex;
+    width: 150px;
+    align-items: center;
+}
+
+.open_orders-item span{
+    margin: auto;
+}
